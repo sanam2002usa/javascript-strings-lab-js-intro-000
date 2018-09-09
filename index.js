@@ -6,4 +6,4 @@ var greetSpecialGuest = "Hi" + specialGuest + "!";
 
 var topic = "javascript-strings-lab";
 
-var conversation = `${topic}`;
+var conversation = `${javascript-strings-lab}`;
