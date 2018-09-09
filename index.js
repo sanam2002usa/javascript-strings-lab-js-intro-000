@@ -4,6 +4,6 @@ var specialGuest = "Neil deGrasse Tyson";
 
 var greetSpecialGuest = "Hi" + specialGuest + "!";
 
-var topic = "javascript-strings-lab";
+var topic = "javascript";
 
-var conversation = `${javascript-strings-lab}`;
+var conversation = `${javascript}`;
